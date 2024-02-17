@@ -1,4 +1,4 @@
-![NESF Logo](assets/logos/NESC.png)
+![NESF Logo](../assets/logos/NESC.png)
 
 # North-East Students' Forum, IIT Kharagpur
 
